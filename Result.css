@@ -1,0 +1,39 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    color: gray;
+    text-align: center;
+
+}
+/*-------- style for main box------------------ */
+.container {
+    height: 40rem;
+    width: 45rem;
+    border: 2px solid gray;
+    box-shadow: 5px 10px 10px gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*-------- style for star again and go to home button------------------ */
+button {
+    background-color: rgb(27, 145, 255);
+    color: white;
+    border-radius: 2rem;
+    border-color: rgb(27, 145, 255);
+    box-shadow: 5px 5px 5px gray;
+    height: 3rem;
+    width: 10rem;
+    cursor: pointer;
+}
+
+.button {
+    display: flex;
+}
+
+b {
+    color: black;
+}
